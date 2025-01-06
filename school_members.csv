@@ -1,0 +1,59 @@
+Teacher,Ramesh Patel,Ahmedabad,CSE,DS,PhD,25000.0,7.0,9876543210
+Teacher,Manisha Joshi,Vadodara,Maths,Calculus,MSc,24000.0,6.0,9876123456
+Teacher,Sejal Shah,Ahmedabad,Physics,Optics,MSc,26000.0,5.0,9988776655
+Teacher,Prakash Mehta,Ahmedabad,Chemistry,Organic,MSc,27000.0,8.0,9876987654
+Teacher,Sonal Desai,Surat,Biology,Genetics,PhD,30000.0,10.0,9877654321
+Teacher,Neha Pandya,Ahmedabad,History,Indian History,MA,23000.0,4.0,9123456789
+Teacher,Vikas Thakkar,Rajkot,English,Literature,MA,22000.0,5.0,9087654321
+Teacher,Hemal Shah,Ahmedabad,Economics,Microeconomics,MBA,28000.0,9.0,9876543121
+Teacher,Pooja Trivedi,Bhavnagar,CSE,AI,BTech,22000.0,3.0,9876543456
+Teacher,Arvind Bhatt,Ahmedabad,Maths,Algebra,PhD,29000.0,6.0,9876549876
+Teacher,Kavita Modi,Ahmedabad,CSE,Python,MTech,25000.0,2.0,9087651234
+Teacher,Rahul Shah,Ahmedabad,Physics,Electrodynamics,MSc,27000.0,8.0,9876987612
+Teacher,Suresh Shah,Surat,Chemistry,Inorganic,MSc,25000.0,7.0,9876543098
+Teacher,Nisha Desai,Ahmedabad,Biology,Zoology,PhD,28000.0,10.0,9876542111
+Teacher,Meena Parmar,Vadodara,English,Grammar,MA,23000.0,5.0,9876432109
+Teacher,Kiran Patel,Ahmedabad,CSE,Java,BTech,24000.0,3.0,9876544321
+Teacher,Amit Shah,Ahmedabad,Physics,Mechanics,PhD,30000.0,9.0,9123450987
+Teacher,Rina Bhavsar,Ahmedabad,History,World History,MA,24000.0,4.0,9876545678
+Teacher,Siddharth Sharma,Ahmedabad,Maths,Statistics,MSc,28000.0,6.0,9876541223
+Teacher,Ankita Shah,Ahmedabad,CSE,Web Development,MTech,26000.0,5.0,9876543455
+NonTeachingStaff,Bhanu Ben,Ahmedabad,Cleaning,7500.0
+NonTeachingStaff,Ramdas Patel,Vadodara,Security,8000.0
+NonTeachingStaff,Laxmi Shah,Surat,Office Work,9500.0
+NonTeachingStaff,Kartik Mehta,Ahmedabad,Lab Assistant,10000.0
+NonTeachingStaff,Meena Patel,Ahmedabad,Canteen,7000.0
+NonTeachingStaff,Gopal Thakkar,Ahmedabad,Transport Assistant,11000.0
+NonTeachingStaff,Sita Joshi,Ahmedabad,Library Assistant,8500.0
+NonTeachingStaff,Shankar Bhatt,Rajkot,Maintenance,12000.0
+NonTeachingStaff,Radha Modi,Vadodara,Receptionist,9000.0
+NonTeachingStaff,Mohit Desai,Ahmedabad,Office Assistant,8000.0
+NonTeachingStaff,Manju Patel,Ahmedabad,Clerical Work,9500.0
+NonTeachingStaff,Krishna Shah,Surat,Electrician,11000.0
+NonTeachingStaff,Ajay Sharma,Ahmedabad,Driver,10000.0
+NonTeachingStaff,Sunil Bhavsar,Ahmedabad,Peon,7000.0
+NonTeachingStaff,Pinky Shah,Ahmedabad,IT Support,12000.0
+Student,Hetvi Shah,Ahmedabad,17,12,A,4,15000.0,A1,Alpha,A2,1234597861
+Student,Arjun Patel,Ahmedabad,16,11,B,12,12000.0,B1,Beta,A3,9876543211
+Student,Kavya Joshi,Vadodara,18,12,C,3,18000.0,A2,Gamma,A1,9988776652
+Student,Rohan Mehta,Ahmedabad,15,10,A,22,10000.0,B3,Delta,B1,8765432190
+Student,Neha Modi,Ahmedabad,16,11,A,8,13000.0,A1,Epsilon,B2,9876123459
+Student,Ravi Thakkar,Surat,14,9,C,15,9500.0,C1,Zeta,A1,9876543098
+Student,Sneha Bhatt,Ahmedabad,17,12,A,6,15500.0,A2,Theta,C1,9876543120
+Student,Sahil Patel,Ahmedabad,16,11,B,9,14500.0,B2,Lambda,A3,9877654322
+Student,Nidhi Desai,Ahmedabad,15,10,A,7,10500.0,A3,Omicron,B3,9876543111
+Student,Ankit Sharma,Vadodara,16,11,C,5,12000.0,C2,Phi,C3,9123456788
+Student,Simran Bhavsar,Ahmedabad,17,12,B,14,16000.0,B3,Sigma,A2,9876542111
+Student,Kunal Trivedi,Ahmedabad,14,9,A,21,9500.0,A1,Tau,C2,9876541223
+Student,Anushka Modi,Ahmedabad,16,11,C,11,12500.0,C1,Upsilon,A1,9876545678
+Student,Ritik Shah,Ahmedabad,15,10,B,17,11500.0,B2,Psi,A3,9876543455
+Student,Tanvi Patel,Ahmedabad,17,12,C,19,17500.0,C3,Omega,B2,9876549876
+Student,Mahima Bhatt,Ahmedabad,14,9,A,20,9000.0,A1,Alpha,C1,9876545432
+Student,Yash Desai,Vadodara,16,11,B,16,14000.0,B2,Beta,A2,9876541200
+Student,Harsh Patel,Ahmedabad,15,10,C,18,9500.0,C1,Gamma,B3,9876546765
+Student,Raj Sharma,Ahmedabad,17,12,A,10,15000.0,A1,Delta,C2,9876545454
+Student,Riya Shah,Ahmedabad,16,11,B,13,13000.0,B1,Epsilon,A3,9876543112
+Teacher,manish chaturvedi,gandhinagar,CSE,OOPS,Phd,80000.0,12.0,9989740001
+NonTeachingStaff,bhaveshbhai,ahm,cleaning,15000.0
+Student,Drashvi patel,morbi,18,12,A,12,120000.0,A2,Nirmal School,A2,9979786066
+Teacher,Manish chaturvedi,Gandhinagar,CSE,OOPS,Phd,1000000.0,12.0,4654644544
